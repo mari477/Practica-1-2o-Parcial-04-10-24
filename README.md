@@ -1,4 +1,4 @@
-# Practica-1-2o-Parcial-04-10-24
+# Practica-1-2_Parcial-04-10-24
 #Actividad1_listas
 print(" ")
 print("Mendez Sanchez Maria Gudalupe Yazmin, 3w, listas")
@@ -11,7 +11,7 @@ print ("El mayor de los precios es:", thislist[3])     #Imprimo de la lista el m
 print(" ")
 ![image](https://github.com/user-attachments/assets/7141475e-3b27-4077-b0f8-3fe18a6c4d9d)
 
-# Practica-2-3-Parcial-04-10-24
+# Practica-2-3-2_Parcial-04-10-24
 print(" ")
 print("Mendez Sanchez Maria Gudalupe Yazmin, 3w , listas")
 print(" ")
@@ -39,7 +39,7 @@ print(" ")
 ![image](https://github.com/user-attachments/assets/644e0c2e-0e76-4637-b82b-678f6678066a)
 ![image](https://github.com/user-attachments/assets/87eb3a32-b3a0-4fcf-a626-b8a6d0860e0b)
 
-# Practica-4-Parcial-04-10-24
+# Practica-4-2_Parcial-04-10-24
 #Actividad4_listas
 print(" ")
 print("Mendez Sanchez Maria Gudalupe Yazmin, 3w , listas")
@@ -67,7 +67,7 @@ print("")
 ![image](https://github.com/user-attachments/assets/2a6430c2-422e-4122-8873-59734cf6b315)
 ![image](https://github.com/user-attachments/assets/e94aab2e-7fe6-41ef-9b47-ac5594f5b1b9)
 
-# Practica-5-Parcial-04-10-24
+# Practica-5-2_Parcial-04-10-24
 #Actividad5_listas
 print(" ")
 print("Mendez Sanchez Maria Guadalupe Yazmin, 3w, listas")
@@ -91,5 +91,8 @@ print(" ")
 for x in thislist:             #Hacerlo para que se pongan los ganadores vertical
     print (x)                  #Hacerlo para que funcione el for con el int
 print(" ")
+
+![image](https://github.com/user-attachments/assets/e9409916-bc55-416d-bdbb-ad7e8139c36e)
+![image](https://github.com/user-attachments/assets/f6b6042e-eb68-46aa-a6e4-64ebb0d51c6c)
 
 
